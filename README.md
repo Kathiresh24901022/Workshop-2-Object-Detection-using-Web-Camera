@@ -22,8 +22,8 @@ To detect the real-life objects with the help of web camera using a program deve
 6. Release webcam and close windows.
 ## CODE:
 ```
-Developed By:Ashwin Akash M
-Reference Number: 212223230024
+Developed By:KATHIRESH M
+Reference Number: 212224240073
 ```
 ```
 import cv2
